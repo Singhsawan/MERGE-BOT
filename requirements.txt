@@ -1,5 +1,5 @@
 dnspython
-apt install ffmpeg
+ffmpeg
 hachoir
 Pillow
 psutil
