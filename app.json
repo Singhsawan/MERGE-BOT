@@ -1,9 +1,4 @@
-"buildpacks": [
-          {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-          }
-],
-  {
+{
 	"name": "Telegram Video Merge Bot",
 	"description": "A Telegram Video Merge Bot in Pyrogram by @YashOswalYO",
 	"keywords": [
@@ -12,7 +7,7 @@
 		"merge",
 		"bot"
 	],
-	"repository": "https://github.com/yashoswalyo/MERGE-BOT",
+	"repository": "https://github.com/vansh876/MERGE-BOT",
 	"website": "https://telegram.dog/yashoswalyo",
 	"stack": "container",
 	"env": {
@@ -26,4 +21,4 @@
 			"size": "eco"
 		}
 	}
-  }
+}
